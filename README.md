@@ -1,6 +1,6 @@
 # Deep-Learning-Project-Instance-Segmentation
 
-In my final project in Deep Learning course I wrote an instance segmentation model on the "The Oxford-IIIT Pet" Dataset.
+In my final project of the Deep Learning course in my study, I implemented an Instance-Segmentation model on the "The Oxford-IIIT Pet" Dataset.
 
 Model steps:
 
